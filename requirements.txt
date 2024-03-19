@@ -5,4 +5,4 @@ pathlib
 google-api-python-client
 pandas
 nltk==3.6.3
-sklearn
+scikit-learn
