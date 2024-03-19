@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+google-api-python-client
+pandas
+nltk==3.6.3
+sklearn
